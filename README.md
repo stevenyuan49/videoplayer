@@ -1,5 +1,5 @@
-# Animebook
-https://animebook.github.io
+# videobook
+https://stevenyuan49.github.io/videoplayer/
 
 An HTML5 video player with navigable subtitles. Since subtitles are in the browser, you can quickly look up words with popup dictionaries like [yomichan](https://foosoft.net/projects/yomichan/), and you can quickly create flashcards for Anki using the [Animebook Chrome extension](https://chrome.google.com/webstore/detail/animebook-anki-export/ohcbgkombhgcbjcikjlgdmjkpibafppa).
 
